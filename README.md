@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murthyns18&label=Profile%20views&color=0e75b6&style=flat" alt="murthyns18" /> </p>
 
-- 🌱 I’m currently learning **Advanced Java**
-
+- 🌱 I have completed FullStack Web Development 
 - 📫 How to reach me **murthy.ns646@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
