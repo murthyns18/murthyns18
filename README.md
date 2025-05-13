@@ -1,6 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hello Coders 👋, I'm Narasimhamurthy NS</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murthyns18&label=Profile%20views&color=0e75b6&style=flat" alt="murthyns18" /> </p>
